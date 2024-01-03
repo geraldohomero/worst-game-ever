@@ -9,4 +9,9 @@ Made with React, Node.js and MySQL
 
 ## I hope you don't like it!
 
+- Level 0: Try not to do
+- Level 0.6: Well, you did it
+- Level 1: Did you?
+...
+
 >Under Construction
