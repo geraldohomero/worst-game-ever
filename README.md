@@ -14,4 +14,6 @@ Made with React, Node.js and MySQL
 - Level 1: Did you?
 ...
 
+[Docs](./docs/Documentation.md)
+
 >Under Construction
