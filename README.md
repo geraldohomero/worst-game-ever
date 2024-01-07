@@ -9,6 +9,8 @@ Made with Next.js, Node.js and MySQL
 
 ## I hope you don't like it!
 
+- Level -1: Register
+- Level -0.2: Login
 - Level 0: Try not to do
 - Level 0.6: Well, you did it
 - Level 1: Did you?
