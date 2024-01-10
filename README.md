@@ -1,4 +1,4 @@
-![image](https://github.com/geraldohomero/WrostGameEver/assets/70844369/bd498c45-3f12-4f34-bd1f-c6308b135634)
+![image](https://github.com/geraldohomero/WorstGameEver/assets/70844369/8106d9a4-eca1-4a1c-b88c-284b76f8fb41)
 
 # !BestGameEver
 Play along and be frustrated
