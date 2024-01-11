@@ -14,6 +14,7 @@ Made with Next.js, Node.js and MySQL
 - Level 0: Try not to do
 - Level 0.6: Well, you did it
 - Level 1: Did you?
+- Level 2: What is that?
 ...
 
 [Docs](./docs/Documentation.md)
