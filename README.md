@@ -3,20 +3,19 @@
 # !BestGameEver
 Play along and be frustrated
 
-This repository is an attempt to create the worst game ever, primarily based on the theme of "terrible web interfaces and usability".
+This repository is an attempt to create the "worst game ever", primarily based on the theme of "terrible web interfaces and usability".
 
-Made with Next.js, Node.js and MySQL
+Made with `Next.js`, `Node.js` and `MySQL`
 
 ## I hope you don't like it!
 
-- Level -1: Register
-- Level -0.2: Login
-- Level 0: Try not to do
-- Level 0.6: Well, you did it
-- Level 1: Did you?
-- Level 2: What is that?
-...
+>Fill free to contribute and make the game even worse
+
 
 [Docs](./docs/Documentation.md)
 
->Under Construction
+[Levels](./docs/Levels/README.md)
+
+---
+
+###### The game is under development
