@@ -12,7 +12,7 @@ Made with `Next.js`, `Node.js` and `MySQL`
 >Fill free to contribute and make the game even worse
 
 
-[Docs](./docs/Documentation.md)
+[Docs](./docs/README.md)
 
 [Levels](./docs/Levels/README.md)
 
