@@ -9,7 +9,7 @@ Made with `Next.js`, `Node.js` and `MySQL`
 
 ## I hope you don't like it!
 
->Feel free to contribute and make the game even worse
+>Feel free to [contribute](./CONTRIBUTING.md) and make the game even worse
 
 [Docs](./docs/README.md)
 
