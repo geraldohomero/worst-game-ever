@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --tw-ring-inset: var(--ring-inset);
+  --tw-ring-offset-width: var(--ring-offset-width, 0px);
+  --tw-ring-offset-color: var(--ring-offset-color, #fff);
+  --tw-ring-color: var(--ring-color, rgba(59, 130, 246, 0.5));
+  --tw-ring-offset-shadow: var(
+    --ring-offset-shadow,
+    0 0 #0000
+  );
+  --tw-ring-shadow: var(--ring-shadow, 0 0 #0000);
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0c0c0c;
+  color: #fff;
+}
+
+input {
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #474747;
+}
+
+@media screen and (min-width: 640px) {
+  html {
+    font-size: 16px;
+  }
+  
+}
+
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 18px;
+  }
+  
+}
+
+
+
+
