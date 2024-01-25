@@ -17,4 +17,4 @@ Made with `Next.js`, `Node.js` and `MySQL`
 
 ---
 
-###### The game is under development
+###### The game is under undevelopment
