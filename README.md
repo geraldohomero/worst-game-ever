@@ -1,6 +1,8 @@
 ![image](https://github.com/geraldohomero/WorstGameEver/assets/70844369/2a85688f-a47e-483d-9934-04a43f8f0d6b)
 
 # !BestGameEver
+
+
 Play along and be frustrated
 
 This repository is an attempt to create the "worst game ever", primarily based on the theme of "terrible web interfaces and usability". Its main premise is to be terrible, with terrible design and horrendous gameplay. Sorry!
