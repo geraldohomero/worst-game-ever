@@ -7,7 +7,7 @@ Play along and be frustrated
 
 This repository is an attempt to create the "worst game ever", primarily based on the theme of "terrible web interfaces and usability". Its main premise is to be terrible, with terrible design and horrendous gameplay. Sorry!
 
-Made with `Next.js`, `Node.js` and `MySQL`
+Made with `React.js` and `Node.js`
 
 ## I hope you don't like it!
 
